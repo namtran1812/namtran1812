@@ -4,11 +4,6 @@
 
 **cs + economics @ university of florida**
 
-i like building things close to the systems layer — especially **trading infrastructure, databases, compilers, distributed systems, and performance tooling**.
-
-most of my projects start with some version of the same question:
-*what's actually happening underneath the abstraction?*
-
 <a href="https://www.linkedin.com/in/nam2k5/">linkedin</a> · <a href="mailto:trannam18122005@gmail.com">email</a> · <a href="https://nemtranhoang.vercel.app/">website</a> · <a href="https://github.com/namtran1812">github</a>
 
 </div>
@@ -165,9 +160,6 @@ it reconstructs historical data vintages without look-ahead bias, detects multiv
 
 <br>
 
-<sub>
-i like systems where correctness, latency, and failure behavior can be measured rather than assumed.
-</sub>
 
 <br><br>
 
